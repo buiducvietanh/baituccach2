@@ -63,7 +63,7 @@ class _MyAppState extends State<MyApp> {
           shadowColor: const Color.fromARGB(55, 190, 190, 190),
           backgroundColor: Colors.white,
           title: Text(
-            'Food Delivery',
+            'Chicago',
             style: TextStyle(
                 color: Colors.black87,
                 fontSize: 24,
@@ -90,7 +90,7 @@ class _MyAppState extends State<MyApp> {
                       child: GestureDetector(
                         onTap: () {},
                         child: Image.asset(
-                          'image/profile icon.png',
+                          'image/profileicon.png',
                           height: 40,
                           width: 40,
                         ),
